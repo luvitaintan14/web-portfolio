@@ -1,4 +1,4 @@
-# web-portfolio
+# website
 
 ## Project setup
 ```
